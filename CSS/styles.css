@@ -47,6 +47,10 @@ p {
   line-height: 2;
 }
 
+td {
+  border: 0;
+}
+
 .bottom-cloud {
   position: absolute;
   left: 250px;
@@ -154,6 +158,7 @@ p {
 
 .table {
   text-align: center;
+  border-style: hidden;
 }
 
 .mini-img {
