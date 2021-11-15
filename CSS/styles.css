@@ -152,6 +152,10 @@ p {
   border-radius: 50%;
 }
 
+.table {
+  text-align: center;
+}
+
 .mini-img {
   width: 25%;
   float: left;
