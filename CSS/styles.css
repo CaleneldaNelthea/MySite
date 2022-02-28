@@ -187,8 +187,14 @@ td {
 
 .design {
   background-color: #E4F9F5;
+  position: relative;
+  padding-top: 10px;
+  padding-bottom: 10px;
 }
 
 .warhammer {
   background-color: #E4F9F5;
+  position: relative;
+  padding-top: 10px;
+  padding-bottom: 10px;
 }
